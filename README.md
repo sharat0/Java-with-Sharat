@@ -44,4 +44,4 @@ Each topic is demonstrated through a series of examples and exercises, with expl
 If you find any issues or have any suggestions for improvement, feel free to create an issue or pull request on this repository. Contributions are welcome and appreciated!
 
 # License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the BDS-3 License. See the LICENSE file for more details.
