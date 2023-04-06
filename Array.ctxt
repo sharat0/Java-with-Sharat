@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Array
+comment1.params=
+comment1.target=void\ menu()
+comment1.text=\r\n\ function\ to\ display\ meny\r\n
+comment2.params=
+comment2.target=void\ meaning()
+comment2.text=\r\n\ function\ to\ display\ meaning\ of\ array\r\n
+comment3.params=
+comment3.target=void\ declaration()
+comment3.text=\r\n\ function\ to\ display\ array\ declaration\r\n
+comment4.params=
+comment4.target=void\ creation()
+comment4.text=\r\n\ function\ to\ display\ array\ creation\r\n
+comment5.params=
+comment5.target=void\ accessing()
+comment5.text=\r\n\ function\ to\ display\ details\ of\ accessing\ individual\ array\ elements\r\n
+comment6.params=
+comment6.target=void\ initialization()
+comment6.text=\r\n\ function\ to\ display\ initialization\ of\ array\ elements\r\n
+comment7.params=
+comment7.target=void\ sorting()
+comment7.text=\r\n\ function\ to\ display\ different\ type\ of\ searching\ and\ sorting\ algorithm\r\n
+comment8.params=
+comment8.target=void\ main()
+comment8.text=\r\n\ main\ function\r\n
+numComments=9

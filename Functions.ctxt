@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Functions
+comment1.params=
+comment1.target=void\ displayMenu()
+comment1.text=\r\n\ function\ to\ display\ menu\r\n
+comment2.params=
+comment2.target=void\ function()
+comment2.text=\r\n\ function\ to\ display\ details\ of\ function\r\n
+comment3.params=
+comment3.target=void\ format()
+comment3.text=\r\n\ function\ to\ display\ format\ of\ defining\ function\r\n
+comment4.params=
+comment4.target=void\ components()
+comment4.text=\r\n\ function\ to\ display\ components\ of\ a\ function\r\n
+comment5.params=
+comment5.target=void\ keyword()
+comment5.text=\r\n\ function\ to\ display\ details\ of\ the\ keyword\ return\r\n
+comment6.params=
+comment6.target=void\ invoke()
+comment6.text=\r\n\ function\ to\ display\ details\ and\ steps\ to\ invoke\ a\ function\r\n\ steps\ to\ return\ function(all\ types)\r\n\ details\ of\ returning\ value\ from\ function\r\n
+comment7.params=
+comment7.target=void\ main()
+comment7.text=\r\n\ main\ function\r\n
+numComments=8
